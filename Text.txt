@@ -2,5 +2,4 @@ version-1
 version-2
         feat-1 done
         feature-2 done
-        feature-2 done
         feature-3 done
